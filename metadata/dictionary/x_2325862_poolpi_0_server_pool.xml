@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="6218641e981545458a4c023b0258ed78" label="Server Pool" name="x_2325862_poolpi_0_server_pool" type="collection">
+        <element default="true" label="Active" name="active" type="boolean"/>
+        <element display="true" label="Name" mandatory="true" max_length="100" name="name" type="string"/>
+        <element default="443" label="Port" mandatory="true" name="port" type="integer"/>
+        <element label="VIP" max_length="15" name="vip" type="string"/>
+        <element default="dev" label="Environment" mandatory="true" name="environment" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Dev" sequence="1" value="dev"/>
+                <element inactive_on_update="false" label="Prod" sequence="3" value="prod"/>
+                <element inactive_on_update="false" label="Test" sequence="2" value="test"/>
+            </choice>
+        </element>
+    </element>
+</database>

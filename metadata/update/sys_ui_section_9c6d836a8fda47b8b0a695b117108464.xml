@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Server Pool" section_id="9c6d836a8fda47b8b0a695b117108464" sys_domain="global" table="x_2325862_poolpi_0_server_pool" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-25 10:45:52</sys_created_on>
+            <sys_id>a078afed176e44a6af266c8e0e86da60</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Server Pool" display_value="Server Pool" name="x_2325862_poolpi_0_server_pool" sys_domain="global" view="Default view">9c6d836a8fda47b8b0a695b117108464</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-25 10:45:52</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-25 10:45:52</sys_created_on>
+            <sys_id>dbbd21e89a644aa4a200f4cdf9d8f43b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Server Pool" display_value="Server Pool" name="x_2325862_poolpi_0_server_pool" sys_domain="global" view="Default view">9c6d836a8fda47b8b0a695b117108464</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-25 10:45:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>environment</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-25 10:45:52</sys_created_on>
+            <sys_id>b1c28d7a524444848bccfa73f0c87bbd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Server Pool" display_value="Server Pool" name="x_2325862_poolpi_0_server_pool" sys_domain="global" view="Default view">9c6d836a8fda47b8b0a695b117108464</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-25 10:45:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-25 10:45:52</sys_created_on>
+            <sys_id>b92fb73296004d72b2597d63b0077791</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Server Pool" display_value="Server Pool" name="x_2325862_poolpi_0_server_pool" sys_domain="global" view="Default view">9c6d836a8fda47b8b0a695b117108464</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-25 10:45:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-25 10:45:52</sys_created_on>
+            <sys_id>2d6dacc9a13e4e37a76fadc18521c03b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Server Pool" display_value="Server Pool" name="x_2325862_poolpi_0_server_pool" sys_domain="global" view="Default view">9c6d836a8fda47b8b0a695b117108464</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-25 10:45:52</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vip</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-25 10:45:52</sys_created_on>
+            <sys_id>6241c98dd19c403e887c01b74c2e5fa9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Server Pool" display_value="Server Pool" name="x_2325862_poolpi_0_server_pool" sys_domain="global" view="Default view">9c6d836a8fda47b8b0a695b117108464</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-25 10:45:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>port</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-25 10:45:52</sys_created_on>
+            <sys_id>03d563dc45ca4d9e8c93247876d25243</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Server Pool" display_value="Server Pool" name="x_2325862_poolpi_0_server_pool" sys_domain="global" view="Default view">9c6d836a8fda47b8b0a695b117108464</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-25 10:45:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-25 10:45:52</sys_created_on>
+            <sys_id>a824f04ec5e945cd9240daddfaacaa5d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Server Pool" display_value="Server Pool" name="x_2325862_poolpi_0_server_pool" sys_domain="global" view="Default view">9c6d836a8fda47b8b0a695b117108464</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-25 10:45:52</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Server Pool</caption>
+            <header>false</header>
+            <name>x_2325862_poolpi_0_server_pool</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-25 10:40:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c6d836a8fda47b8b0a695b117108464</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2325862_poolpi_0_server_pool</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="PoolPilot" source="x_2325862_poolpi_0">0b762abc0f749310f4dbbce300d1b2d9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="PoolPilot">0b762abc0f749310f4dbbce300d1b2d9</sys_scope>
+            <sys_update_name>sys_ui_section_9c6d836a8fda47b8b0a695b117108464</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-25 10:40:12</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

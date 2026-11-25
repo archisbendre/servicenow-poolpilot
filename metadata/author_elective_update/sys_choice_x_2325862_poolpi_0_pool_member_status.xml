@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="status" table="x_2325862_poolpi_0_pool_member" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <name>x_2325862_poolpi_0_pool_member</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-25 10:45:52</sys_created_on>
+            <sys_id>a0fa0a106d20485e8174984ed597052e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>status</sys_name>
+            <sys_package display_value="PoolPilot" source="x_2325862_poolpi_0">0b762abc0f749310f4dbbce300d1b2d9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="PoolPilot">0b762abc0f749310f4dbbce300d1b2d9</sys_scope>
+            <sys_update_name>sys_choice_x_2325862_poolpi_0_pool_member_status</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-25 10:45:52</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Enabled</label>
+            <language>en</language>
+            <name>x_2325862_poolpi_0_pool_member</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-25 10:45:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c16dcc9397604ef28ea4f0f44d5d24e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-25 10:45:52</sys_updated_on>
+            <value>enabled</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Disabled</label>
+            <language>en</language>
+            <name>x_2325862_poolpi_0_pool_member</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-25 10:45:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1a44c8b4dfd2401da794dbccfedb4c54</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-25 10:45:52</sys_updated_on>
+            <value>disabled</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

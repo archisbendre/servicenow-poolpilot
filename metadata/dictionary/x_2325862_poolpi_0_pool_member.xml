@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="257bab9b095340428309e265cac406b9" label="Pool Member" name="x_2325862_poolpi_0_pool_member" type="collection">
+        <element label="Pool" mandatory="true" name="pool" reference="x_2325862_poolpi_0_server_pool" type="reference"/>
+        <element display="true" label="IP address" mandatory="true" max_length="15" name="ip_address" type="string"/>
+        <element default="8080" label="Port" mandatory="true" name="port" type="integer"/>
+        <element default="enabled" label="Status" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Disabled" sequence="2" value="disabled"/>
+                <element inactive_on_update="false" label="Enabled" sequence="1" value="enabled"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="pool"/>
+        </index>
+    </element>
+</database>

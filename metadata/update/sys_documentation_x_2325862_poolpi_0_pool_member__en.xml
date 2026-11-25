@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Pool Member" language="en" table="x_2325862_poolpi_0_pool_member">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Pool Member</label>
+            <language>en</language>
+            <name>x_2325862_poolpi_0_pool_member</name>
+            <plural>Pool Members</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-25 10:45:49</sys_created_on>
+            <sys_id>c40d3e793b574df4ad61f6fec90be9cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Pool Member</sys_name>
+            <sys_package display_value="PoolPilot" source="x_2325862_poolpi_0">0b762abc0f749310f4dbbce300d1b2d9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="PoolPilot">0b762abc0f749310f4dbbce300d1b2d9</sys_scope>
+            <sys_update_name>sys_documentation_x_2325862_poolpi_0_pool_member__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-25 10:45:49</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

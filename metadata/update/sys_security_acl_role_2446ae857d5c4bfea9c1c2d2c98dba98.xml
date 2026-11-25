@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-25 10:40:12</sys_created_on>
+        <sys_id>2446ae857d5c4bfea9c1c2d2c98dba98</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2325862_poolpi_0_server_pool.x_2325862_poolpi_0.user</sys_name>
+        <sys_package display_value="PoolPilot" source="x_2325862_poolpi_0">0b762abc0f749310f4dbbce300d1b2d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PoolPilot">0b762abc0f749310f4dbbce300d1b2d9</sys_scope>
+        <sys_security_acl display_value="x_2325862_poolpi_0_server_pool">33e7136a4ccc49c7aea91a10607f95b5</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_2446ae857d5c4bfea9c1c2d2c98dba98</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-25 10:40:12</sys_updated_on>
+        <sys_user_role display_value="x_2325862_poolpi_0.user" name="x_2325862_poolpi_0.user">b546ffb0afea42c0aa430342a66ecb7c</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
